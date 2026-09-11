@@ -6,7 +6,7 @@ $ git --all -m 'ci: `dist init`'
 ```
 
 Add windows ARM workaround:
-https://github.com/abrauninger/nufmt/blob/60dfd82a6b21417912e64d3ebd05f0509005e50e/dist-workspace.toml#L19-L20
+https://github.com/mkatychev/nufmt/blob/067eb8b55a8167a2b01ad9e8ba2e3bff4ef7f4aa/dist-workspace.toml#L19-L20
 
 
 
